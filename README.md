@@ -121,4 +121,10 @@ flowchart TD
 
 **Notes**:  
 - All modules integrate via REST APIs.  
-- Data retention policies apply to audit logs.  
+- Data retention policies apply to audit logs.
+
+![deepseek_mermaid_20250530_835b93](https://github.com/user-attachments/assets/2f593576-5913-4f7c-b1a8-2ffdfcbfbe62)
+
+![deepseek_mermaid_20250530_5513c9](https://github.com/user-attachments/assets/c0906200-b67b-4ab6-9f20-53fb752f9f01)
+
+
